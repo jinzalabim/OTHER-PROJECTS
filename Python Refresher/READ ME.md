@@ -23,7 +23,7 @@ This Jupyter Notebook provides a comprehensive Python refresher for individuals 
 - Familiarity with Jupyter Notebooks (basic).  
 - Recommended: Install the following Python libraries:  
   ```bash  
-  pip install pandas numpy matplotlib plotly   ```  
+  pip install pandas numpy matplotlib plotly 
 
 ## How to Use
 1. Clone or download this repository to your local machine.
